@@ -2,3 +2,11 @@
 2) Clone to your repository in Desktop
 3) Open the repository using command "code ."
 4) Learn about class and Objects
+5) Explain class with Employee OR Phone
+6) Say we have a phone , it's size,camera,weight, These are it's data
+7) Call, taking photo are functions
+8) So the phone can be used a class and make different objects of those classes eg:Samsung, Apple, Appo etc
+9) An Empolyee data and it attributes , we can Create Objects
+10) In Interview we can say, Class is a blue print for creating objects
+11) Class has data/attributes and functions/Methods
+12)
