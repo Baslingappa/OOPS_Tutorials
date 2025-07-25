@@ -47,7 +47,7 @@ class chatbook:
         self.menu()
 
     def my_post(self):
-        if self.loggedin=="True":
+        if self.loggedin==True:
             txt=input("Enter your message here")
             print(f"Following content has been posted --> {txt}")
         else:
@@ -64,4 +64,6 @@ class chatbook:
             print("Please sigin first to send the message")
         print("\n")
         self.menu()
+
+
 obj=chatbook()
